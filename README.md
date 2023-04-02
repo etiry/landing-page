@@ -1,1 +1,1 @@
-# landing-page
+Practice landing page layout for The Odin Project using Flexbox.
